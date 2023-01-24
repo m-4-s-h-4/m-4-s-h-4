@@ -1,6 +1,6 @@
 # 💫 About Me:
-# Hi I’m Maria, a UI designer with a passion for using code to bring my ideas to life:cherry_blossom:
-#I am skilled at creating intuitive and visually appealing user interfaces that are also highly functional.  <br>I am also highly proficient in a variety of programming languages, frameworks and design tools.<br>I use this knowledge to implement my designs in a way that is both efficient and maintainable. I am constantly seeking to improve my skills and stay up-to-date with the latest trends in UI/UX and web development.<br>
+! Hi I’m Maria, a UI designer with a passion for using code to bring my ideas to life:cherry_blossom:
+I am skilled at creating intuitive and visually appealing user interfaces that are also highly functional.  <br>I am also highly proficient in a variety of programming languages, frameworks and design tools.<br>I use this knowledge to implement my designs in a way that is both efficient and maintainable. I am constantly seeking to improve my skills and stay up-to-date with the latest trends in UI/UX and web development.<br>
 
 
 ## :postbox:Contact Me:
