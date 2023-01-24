@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi I’m Maria, a UI designer with a passion for using code to bring my ideas to life. I am skilled at creating intuitive and visually appealing user interfaces that are also highly functional.  <br>I am also highly proficient in a variety of programming languages, frameworks and design tools.<br>I use this knowledge to implement my designs in a way that is both efficient and maintainable. I am constantly seeking to improve my skills and stay up-to-date with the latest trends in UI/UX and web development.
+Hi I’m Maria, a UI designer with a passion for using code to bring my ideas to life :hibiscus: 
+I am skilled at creating intuitive and visually appealing user interfaces that are also highly functional.  <br>I am also highly proficient in a variety of programming languages, frameworks and design tools.<br>I use this knowledge to implement my designs in a way that is both efficient and maintainable. I am constantly seeking to improve my skills and stay up-to-date with the latest trends in UI/UX and web development.
 
 
 ## 🌐 Socials:
@@ -13,6 +14,6 @@ Hi I’m Maria, a UI designer with a passion for using code to bring my ideas to
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-4-s-h-4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=m-4-s-h-4&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=m-4-s-h-4&icon=5&color=0)](https://visitcount.itsvg.in ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white))
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
