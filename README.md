@@ -13,4 +13,3 @@ I am skilled at creating intuitive and visually appealing user interfaces that a
 
 # :zap: GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=m-4-s-h-4&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=m-4-s-h-4&theme=tokyonight&hide_border=false)<br/>
